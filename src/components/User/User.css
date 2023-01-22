@@ -1,0 +1,38 @@
+.user-input {
+  display: flex;
+  flex-direction: column;
+  height: 185px;
+  width: 700px;
+  border-radius: 12px;
+  background-color: lightgray;
+  padding-left: 15px;
+  padding-top:20px;
+  padding-right:15px;
+}
+
+.button-font {
+
+}
+
+.button-color {
+  background-color: #1b1919;
+}
+/* .user-input__controls label {
+  color: black;
+  padding-bottom:5px;
+}
+
+.user-input__controls input {
+  padding-top: 10px ;
+  padding-bottom: 14px;
+  width: 100%;
+  padding-left:10px;
+} */
+
+.user-input__controls {
+    padding-bottom: 12px;
+}
+
+input:focus {
+    outline-width: 0;
+}

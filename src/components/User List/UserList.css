@@ -1,0 +1,26 @@
+.inner-div__data {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width:700px;
+    height:auto;
+    background-color:lightgray;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+
+.padding-remove {
+    list-style-type: none;
+    padding-left:0;
+    margin: 0;
+}
+
+.flex-box-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
