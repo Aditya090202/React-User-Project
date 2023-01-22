@@ -10,3 +10,9 @@ Created a React App using mulitple components to create a login interface which 
 
 # Debugging 
    - Need to figure out to conditonally render the div that holds the list items when button clicked and no data is added.
+# New Features to be added
+   - Implement deletion of items when clicked on 
+   - Improve the general UI design
+   - Attach to a database store content permanently and add authorization
+   - Data will be different based account(using Authorization)
+   - Add a separate user login page where you can sign in with email and password or Google Sign in
