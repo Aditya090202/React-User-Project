@@ -1,4 +1,3 @@
-# React-User-Project
 # Basic React App using state and custom components
 
 Created a React App using mulitple components to create a login interface which takes input and renders an item using the data on the page.
