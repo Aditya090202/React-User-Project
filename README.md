@@ -16,3 +16,13 @@ Created a React App using mulitple components to create a login interface which 
    - Attach to a database store content permanently and add authorization
    - Data will be different based account(using Authorization)
    - Add a separate user login page where you can sign in with email and password or Google Sign in
+
+To start the project, (make sure you have npm installed) :
+  - First clone the project locally 
+  - Open it with a code editor
+Then run the following commands in the terminal
+```
+npm install
+npm start
+```
+
