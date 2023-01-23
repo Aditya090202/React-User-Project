@@ -20,7 +20,7 @@ Created a React App using mulitple components to create a login interface which 
 To start the project, (make sure you have npm installed) :
   - First clone the project locally 
   - Open it with a code editor
-Then run the following commands in the terminal
+**Then run the following commands in the terminal**
 ```
 npm install
 npm start
